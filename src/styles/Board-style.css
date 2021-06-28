@@ -1,0 +1,9 @@
+.board-row {
+    display: flex;
+    flex-direction: row;
+    border-bottom: 4px solid #fff;
+}
+
+.board-row:last-child {
+      border-bottom: none;
+}

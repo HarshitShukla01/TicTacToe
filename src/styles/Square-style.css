@@ -1,0 +1,13 @@
+.btn-square {
+	  width: 80px;
+      height: 80px;
+      border-right: 4px solid #fff;
+      font-size: 2.5rem;
+      padding: 0;
+      overflow: hidden;
+      transition: all 0.2s;
+}
+
+.btn-square:last-child {
+      border-right: none;
+}
